@@ -15,7 +15,7 @@
 - numpy
 - seaborn
 - matplotlib
-- 
+
 #### 모델링
 - tensorflow
 - sklearn
